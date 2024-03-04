@@ -1,0 +1,2 @@
+# praize
+say Hi
